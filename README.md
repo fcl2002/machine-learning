@@ -4,5 +4,5 @@ Este repositório contém os projetos de inteligência artificial desenvolvidos 
 
 Projetos:
 
-- [Atividade 01]: [A detecção de disfagia - dificuldade em engolir alimentos/bebidas - através da classificação de áudios]
-- [Atividade 02]: [Classificação de um dataset e suas categorias por meio de técnicas de tokenização]
+- Atividade 01: detecção de disfagia - dificuldade em engolir alimentos/bebidas - através da classificação de áudios;
+- Atividade 02: classificação de um dataset de notícias e suas categorias por meio de técnicas de tokenização.
